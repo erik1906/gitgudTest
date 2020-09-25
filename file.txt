@@ -1,2 +1,3 @@
 Somethig in commit 1
-fix QA:
+fix QA: Some hotfix
+
